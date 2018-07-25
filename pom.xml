@@ -42,12 +42,12 @@
     <repository>
         <id>00321bca3728</id>
         <name>00321bca3728-releases</name>
-        <url>http://110.110.112.138:8085/artifactory/verizon</url>
+        <url>http://110.110.112.138:8081/nexus/content/repositories/atmec/</url>
     </repository>
     <snapshotRepository>
         <id>00321bca3728</id>
         <name>00321bca3728-snapshots</name>
-        <url>http://110.110.112.138:8085/artifactory/verizon</url>
+        <url>http://110.110.112.138:8081/nexus/content/repositories/atmecsnap/</url>
     </snapshotRepository>
 </distributionManagement>
 
