@@ -46,7 +46,7 @@
     </repository>
     <snapshotRepository>
         <id>00321bca3728</id>
-        <name>00321bca3728-snapshots</name>
+        <name>00321bca3728-snapshot</name>
         <url>http://110.110.112.138:8081/nexus/content/repositories/atmecsnap/</url>
     </snapshotRepository>
 </distributionManagement>
