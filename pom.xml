@@ -4,7 +4,7 @@
   <groupId>com.scmgalaxy.mavensample</groupId>
   <artifactId>my-maven</artifactId>
   <packaging>jar</packaging>
-  <version>1.0.1-snapshot</version>
+  <version>1.0.1-SNAPSHOT</version>
   <name>my-maven</name>
   <url>http://maven.apache.org</url>
 	
@@ -46,13 +46,9 @@
     </repository>
     <snapshotRepository>
         <id>00321bca3728</id>
-        <name>00321bca3728-snapshot</name>
+        <name>00321bca3728-SNAPSHOT</name>
         <url>http://110.110.112.138:8081/nexus/content/repositories/atmecsnap/</url>
     </snapshotRepository>
 </distributionManagement>
-
-
-
-
 
 </project>
